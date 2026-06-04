@@ -1,0 +1,2 @@
+# Mise-en-uvre-exp-rimentale-et-commande-robuste-d-un-moteur-BLDC-enroulements-ouverts-Open-Winding-
+Ce projet porte sur la mise en œuvre expérimentale et la commande robuste d'un moteur BLDC (Brushless DC) à enroulements ouverts (Open-Winding). Contrairement à une configuration classique en étoile, la structure Open-Winding permet d'isoler physiquement les phases du moteur, offrant ainsi une tolérance aux défauts accrue.
